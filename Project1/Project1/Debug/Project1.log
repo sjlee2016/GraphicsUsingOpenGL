@@ -1,0 +1,18 @@
+﻿  3.1.2DObjects_GLSL.cpp
+c:\users\lee se jin\downloads\3.1.2dobjects_glsl\3.1.2dobjects_glsl\3.1.2dobjects_glsl\3.1.2dobjects_glsl.cpp(28): warning C4838: 'double'에서 'GLfloat'(으)로의 변환에는 축소 변환이 필요합니다.
+c:\users\lee se jin\downloads\3.1.2dobjects_glsl\3.1.2dobjects_glsl\3.1.2dobjects_glsl\3.1.2dobjects_glsl.cpp(28): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+c:\users\lee se jin\downloads\3.1.2dobjects_glsl\3.1.2dobjects_glsl\3.1.2dobjects_glsl\3.1.2dobjects_glsl.cpp(30): warning C4838: 'double'에서 'GLfloat'(으)로의 변환에는 축소 변환이 필요합니다.
+c:\users\lee se jin\downloads\3.1.2dobjects_glsl\3.1.2dobjects_glsl\3.1.2dobjects_glsl\3.1.2dobjects_glsl.cpp(30): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+c:\users\lee se jin\downloads\3.1.2dobjects_glsl\3.1.2dobjects_glsl\3.1.2dobjects_glsl\3.1.2dobjects_glsl.cpp(31): warning C4838: 'double'에서 'GLfloat'(으)로의 변환에는 축소 변환이 필요합니다.
+c:\users\lee se jin\downloads\3.1.2dobjects_glsl\3.1.2dobjects_glsl\3.1.2dobjects_glsl\3.1.2dobjects_glsl.cpp(31): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+c:\users\lee se jin\downloads\3.1.2dobjects_glsl\3.1.2dobjects_glsl\3.1.2dobjects_glsl\3.1.2dobjects_glsl.cpp(775): warning C4101: 'delx' :참조되지 않은 지역 변수입니다.
+c:\users\lee se jin\downloads\3.1.2dobjects_glsl\3.1.2dobjects_glsl\3.1.2dobjects_glsl\3.1.2dobjects_glsl.cpp(775): warning C4101: 's' :참조되지 않은 지역 변수입니다.
+c:\users\lee se jin\downloads\3.1.2dobjects_glsl\3.1.2dobjects_glsl\3.1.2dobjects_glsl\3.1.2dobjects_glsl.cpp(775): warning C4101: 'x' :참조되지 않은 지역 변수입니다.
+c:\users\lee se jin\downloads\3.1.2dobjects_glsl\3.1.2dobjects_glsl\3.1.2dobjects_glsl\3.1.2dobjects_glsl.cpp(773): warning C4101: 'i' :참조되지 않은 지역 변수입니다.
+c:\users\lee se jin\downloads\3.1.2dobjects_glsl\3.1.2dobjects_glsl\3.1.2dobjects_glsl\3.1.2dobjects_glsl.cpp(775): warning C4101: 'dels' :참조되지 않은 지역 변수입니다.
+c:\users\lee se jin\downloads\3.1.2dobjects_glsl\3.1.2dobjects_glsl\3.1.2dobjects_glsl\3.1.2dobjects_glsl.cpp(775): warning C4101: 'r' :참조되지 않은 지역 변수입니다.
+c:\users\lee se jin\downloads\3.1.2dobjects_glsl\3.1.2dobjects_glsl\3.1.2dobjects_glsl\3.1.2dobjects_glsl.cpp(775): warning C4101: 'delr' :참조되지 않은 지역 변수입니다.
+  건너뛰고 있습니다... (관련된 변경 내용 없음)
+  LoadShaders.cpp
+  Project1.vcxproj -> C:\Users\lee se jin\Desktop\graphics\Project1\Debug\Project1.exe
+  Project1.vcxproj -> C:\Users\lee se jin\Desktop\graphics\Project1\Debug\Project1.pdb (Partial PDB)

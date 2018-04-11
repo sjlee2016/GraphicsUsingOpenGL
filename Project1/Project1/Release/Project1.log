@@ -1,0 +1,22 @@
+﻿  3.1.2DObjects_GLSL.cpp
+..\..\..\..\Downloads\3.1.2DObjects_GLSL\3.1.2DObjects_GLSL\3.1.2DObjects_GLSL\3.1.2DObjects_GLSL.cpp(28): warning C4838: 'double'에서 'GLfloat'(으)로의 변환에는 축소 변환이 필요합니다.
+..\..\..\..\Downloads\3.1.2DObjects_GLSL\3.1.2DObjects_GLSL\3.1.2DObjects_GLSL\3.1.2DObjects_GLSL.cpp(28): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+..\..\..\..\Downloads\3.1.2DObjects_GLSL\3.1.2DObjects_GLSL\3.1.2DObjects_GLSL\3.1.2DObjects_GLSL.cpp(30): warning C4838: 'double'에서 'GLfloat'(으)로의 변환에는 축소 변환이 필요합니다.
+..\..\..\..\Downloads\3.1.2DObjects_GLSL\3.1.2DObjects_GLSL\3.1.2DObjects_GLSL\3.1.2DObjects_GLSL.cpp(30): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+..\..\..\..\Downloads\3.1.2DObjects_GLSL\3.1.2DObjects_GLSL\3.1.2DObjects_GLSL\3.1.2DObjects_GLSL.cpp(31): warning C4838: 'double'에서 'GLfloat'(으)로의 변환에는 축소 변환이 필요합니다.
+..\..\..\..\Downloads\3.1.2DObjects_GLSL\3.1.2DObjects_GLSL\3.1.2DObjects_GLSL\3.1.2DObjects_GLSL.cpp(31): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+..\..\..\..\Downloads\3.1.2DObjects_GLSL\3.1.2DObjects_GLSL\3.1.2DObjects_GLSL\3.1.2DObjects_GLSL.cpp(775): warning C4101: 'delx' :참조되지 않은 지역 변수입니다.
+..\..\..\..\Downloads\3.1.2DObjects_GLSL\3.1.2DObjects_GLSL\3.1.2DObjects_GLSL\3.1.2DObjects_GLSL.cpp(775): warning C4101: 's' :참조되지 않은 지역 변수입니다.
+..\..\..\..\Downloads\3.1.2DObjects_GLSL\3.1.2DObjects_GLSL\3.1.2DObjects_GLSL\3.1.2DObjects_GLSL.cpp(775): warning C4101: 'x' :참조되지 않은 지역 변수입니다.
+..\..\..\..\Downloads\3.1.2DObjects_GLSL\3.1.2DObjects_GLSL\3.1.2DObjects_GLSL\3.1.2DObjects_GLSL.cpp(773): warning C4101: 'i' :참조되지 않은 지역 변수입니다.
+..\..\..\..\Downloads\3.1.2DObjects_GLSL\3.1.2DObjects_GLSL\3.1.2DObjects_GLSL\3.1.2DObjects_GLSL.cpp(775): warning C4101: 'dels' :참조되지 않은 지역 변수입니다.
+..\..\..\..\Downloads\3.1.2DObjects_GLSL\3.1.2DObjects_GLSL\3.1.2DObjects_GLSL\3.1.2DObjects_GLSL.cpp(775): warning C4101: 'r' :참조되지 않은 지역 변수입니다.
+..\..\..\..\Downloads\3.1.2DObjects_GLSL\3.1.2DObjects_GLSL\3.1.2DObjects_GLSL\3.1.2DObjects_GLSL.cpp(775): warning C4101: 'delr' :참조되지 않은 지역 변수입니다.
+  LoadShaders.cpp
+Shaders\LoadShaders.cpp(11): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.15063.0\ucrt\stdio.h(207): note: 'fopen' 선언을 참조하십시오.
+  코드를 생성하고 있습니다.
+  All 105 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  코드를 생성했습니다.
+  Project1.vcxproj -> C:\Users\lee se jin\Desktop\graphics\Project1\Release\Project1.exe
+  Project1.vcxproj -> C:\Users\lee se jin\Desktop\graphics\Project1\Release\Project1.pdb (Full PDB)
